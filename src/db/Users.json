@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "naam": "Amar Baldewsing",
+            "leeftijd": 18,
+            "functie": "Software Developer",
+            "hobby": ["Sportschool", "Lezen", "Hardlopen", "Programmeren"]
+        },
+        {
+            "id": 2,
+            "naam": "Ishant Baldewsing",
+            "leeftijd": 14, 
+            "functie": "Student",
+            "hobby": ["Gamen", "Sporten"]
+        },
+        {
+            "id": 3,
+            "naam": "Jan Pieter",
+            "leeftijd": 26, 
+            "functie": "Senior Developer",
+            "hobby": ["Programmeren", "Lezen"]
+        }
+    ]
+}
